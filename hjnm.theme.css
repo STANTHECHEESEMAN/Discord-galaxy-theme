@@ -22,16 +22,16 @@ body {
 /* ------REMOVE GREY/WHITE BG COLORS------ */
 .theme-dark,
 .theme-light {
-    --header-primary: #5005f2;
-    --text-link: #5005f2;
-    --header-secondary: #5005f2;
+    --header-primary: #3400a6;
+    --text-link: #3400a6;
+    --header-secondary: #3400a6;
     --text-normal: #ffffff;
-    --text-muted: #5005f2;
-    --channels-default: #5005f2;
-    --interactive-normal: #5005f2;
-    --interactive-hover: #5005f2;
-    --interactive-active: #5005f2;
-    --interactive-muted: #5005f2;
+    --text-muted: #3400a6;
+    --channels-default: #3400a6;
+    --interactive-normal: #3400a6;
+    --interactive-hover: #3400a6;
+    --interactive-active: #3400a6;
+    --interactive-muted: #3400a6;
     --background-primary: transparent;
     --background-secondary: transparent;
     --background-secondary-alt: transparent;
